@@ -1,0 +1,5 @@
+export const DO_CONSTANT = {
+    ADD_TO_DO: 'ADD_TO_DO',
+    REMOVE_TO_DO: "REMOVE_TO_DO",
+    UPDATE_TO_DO: 'UPDATE_TO_DO'
+}
